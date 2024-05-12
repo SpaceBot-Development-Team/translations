@@ -7,16 +7,16 @@
         "Añade un strike al staff proporcionado. Ha de tener permisos de moderar miembros": "Adds a strike to a staff member. They must have moderate members permission.",
         "El staff que sancionar": "The staff to add the strike to",
         "La cantidad de strikes": "How many strikes should be added",
-        "La razón por la que le sancionas": "The reason why you add the strikes"
-    },
-    "en-US": {
-        "Configura el bot en tu servidor": "Sets up the bot in your server",
-        "Configura los strikes": "Sets up strikes",
-        "Configura las advertencias": "Sets up warnings",
-        "Configura las postulaciones": "Sets up applications",
-        "Añade un strike al staff proporcionado. Ha de tener permisos de moderar miembros": "Adds a strike to a staff member. They must have moderate members permission.",
-        "El staff que sancionar": "The staff to add the strike to",
-        "La cantidad de strikes": "How many strikes should be added",
-        "La razón por la que le sancionas": "The reason why you add the strikes"
+        "La razón por la que le sancionas": "The reason why you add the strikes",
+        "No puedes añadir strikes a este usuario por no ser considerado Staff por parte de Discord": "You can't add strikes to this user because it is not considered as a Staff by Discord's side",
+        "No puedes añadir strikes a este staff por tener un rol superior o igual al tuyo": "You can't add strikes to this user because they have a greater or equal role than yours",
+        "No se han configurado los strikes": "Strikes have not been set up",
+        "**{author} ha sancionado a {staff}**\n**Strikes**: {strikes}\n**Razón**: {reason}": "**{author} has warned {staff}**\n**Strikes**: {strikes}\n**Reason**: {reason}",
+        "\n\nSe adjuntaron imágenes": "\n\nImages were attached",
+        "Se ha añadido tu strike": "Your strike was added",
+        "Este staff no tiene strikes": "This staff doesn't has strikes",
+        "El staff al que quitar la sanción": "The staff to remove the strike from",
+        "El strike que quitar": "The strike to remove",
+        "Este staff no tiene strikes, aún...": "This staff does not have any strikes, yet..."
     }
 }
