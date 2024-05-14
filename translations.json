@@ -1,13 +1,36 @@
 {
     "en-GB": {
         "groups": {},
-        "commands": {},
+        "commands": {
+            "Advertir Usuario": "Warn User",
+            "Crear Etiqueta": "Create Tag",
+            "Crear PetPet": "Create PetPet"
+        },
         "descriptions": {
             "Configura el bot en tu servidor": "Sets up the bot in your server",
             "Configura los strikes": "Sets up strikes",
             "Configura las advertencias": "Sets up warnings",
             "Configura las postulaciones": "Sets up applications",
-            "Añade un strike al staff proporcionado. Ha de tener permisos de moderar miembros.": "Adds a strike to a staff member. They must have moderate members permission."
+            "Añade un strike al staff proporcionado. Ha de tener permisos de moderar miembros.": "Adds a strike to a staff member. They must have moderate members permission.",
+            "Obtiene una etiqueta": "Gets a tag",
+            "Juega a un Hundir la Flota": "Starts a battleship game",
+            "Crea un embed personalizado": "Creates a custom embed",
+            "Evalúa código de Python": "Evaluates Python code",
+            "Comandos de diversión": "Commands for entertainment",
+            "Comprueba el estado del premium en este servidor": "Checks the premium state in this server",
+            "Mira los premium points que tienes": "Checks your premium points",
+            "Comprueba el stock actual": "Checks your current stock",
+            "Permite gestionar etiquetas guardadas para tí.": "Allows managing your saved tags",
+            "Convierte un texto en voz": "Converts text to speech",
+            "Juega un 3 en raya contra alguien": "Plays a TicTacToe game",
+            "Mira una tabla con los que más vouchs tienen en el servidor": "Shows the top vouch users",
+            "Añade un multiplicador de vouchs": "Adds a vouch multiplier",
+            "Habla en un canal de voz por tí por el texto que pases.": "Voice channel only vTTS",
+            "Añade un vouch a un miembro. Este debe de contener el rol configurado como alter.": "Adds a vouch to a user. Must have the configured alter role.",
+            "Comprueba los vouchs de un alter.": "Checks the vouchs of an alter.",
+            "Relee el canal de vouchs para añadir vouchs a los alters a los que no fue posible añadirles.": "Recounts the vouch in the vouch channels to add them for those alters that weren't added",
+            "Añade una advertencia al usuario porporcionado": "Adds a warn to a user",
+            "Comprueba las advertencias de un usuario, o tuyas.": "Checks your or other user warnings"
         },
         "parameter_names": {},
         "parameter_descriptions": {
@@ -38,7 +61,26 @@
             "Configura los strikes": "Sets up strikes",
             "Configura las advertencias": "Sets up warnings",
             "Configura las postulaciones": "Sets up applications",
-            "Añade un strike al staff proporcionado. Ha de tener permisos de moderar miembros.": "Adds a strike to a staff member. They must have moderate members permission."
+            "Añade un strike al staff proporcionado. Ha de tener permisos de moderar miembros.": "Adds a strike to a staff member. They must have moderate members permission.",
+            "Obtiene una etiqueta": "Gets a tag",
+            "Juega a un Hundir la Flota": "Starts a battleship game",
+            "Crea un embed personalizado": "Creates a custom embed",
+            "Evalúa código de Python": "Evaluates Python code",
+            "Comandos de diversión": "Commands for entertainment",
+            "Comprueba el estado del premium en este servidor": "Checks the premium state in this server",
+            "Mira los premium points que tienes": "Checks your premium points",
+            "Comprueba el stock actual": "Checks your current stock",
+            "Permite gestionar etiquetas guardadas para tí.": "Allows managing your saved tags",
+            "Convierte un texto en voz": "Converts text to speech",
+            "Juega un 3 en raya contra alguien": "Plays a TicTacToe game",
+            "Mira una tabla con los que más vouchs tienen en el servidor": "Shows the top vouch users",
+            "Añade un multiplicador de vouchs": "Adds a vouch multiplier",
+            "Habla en un canal de voz por tí por el texto que pases.": "Voice channel only vTTS",
+            "Añade un vouch a un miembro. Este debe de contener el rol configurado como alter.": "Adds a vouch to a user. Must have the configured alter role.",
+            "Comprueba los vouchs de un alter.": "Checks the vouchs of an alter.",
+            "Relee el canal de vouchs para añadir vouchs a los alters a los que no fue posible añadirles.": "Recounts the vouch in the vouch channels to add them for those alters that weren't added",
+            "Añade una advertencia al usuario porporcionado": "Adds a warn to a user",
+            "Comprueba las advertencias de un usuario, o tuyas.": "Checks your or other user warnings"
         },
         "parameter_names": {},
         "parameter_descriptions": {
