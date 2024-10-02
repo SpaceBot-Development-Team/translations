@@ -1,12 +1,12 @@
 {
     "en-GB": {
-        "groups": {},
-        "commands": {
+        "group_name": {},
+        "command_name": {
             "Advertir Usuario": "Warn User",
             "Crear Etiqueta": "Create Tag",
             "Crear PetPet": "Create PetPet"
         },
-        "descriptions": {
+        "command_description": {
             "Configura el bot en tu servidor": "Sets up the bot in your server",
             "Configura los strikes": "Sets up strikes",
             "Configura las advertencias": "Sets up warnings",
@@ -32,13 +32,13 @@
             "Añade una advertencia al usuario porporcionado": "Adds a warn to a user",
             "Comprueba las advertencias de un usuario, o tuyas.": "Checks your or other user warnings"
         },
-        "parameter_names": {},
-        "parameter_descriptions": {
+        "parameter_name": {},
+        "parameter_description": {
             "El staff que sancionar": "The staff to add the strike to",
             "La cantidad de strikes": "How many strikes should be added",
             "La razón por la que le sancionas":"The reason why you add the strikes"
         },
-        "responses": {
+        "other": {
             "No puedes añadir strikes a este usuario por no ser considerado Staff por parte de Discord": "You can't add strikes to this user because it is not considered as a Staff by Discord's side",
             "No puedes añadir strikes a este staff por tener un rol superior o igual al tuyo": "You can't add strikes to this user because they have a greater or equal role than yours",
             "No se han configurado los strikes": "Strikes have not been set up",
@@ -49,14 +49,14 @@
             "El strike que quitar": "The strike to remove",
             "Este staff no tiene strikes, aún...": "This staff does not have any strikes, yet..."
         },
-        "choices": {
+        "choice_name": {
             "Este staff no tiene strikes": "There are no strikes for this staff"
         }
     },
     "en-US": {
-        "groups": {},
-        "commands": {},
-        "descriptions": {
+        "group_name": {},
+        "command_name": {},
+        "command_description": {
             "Configura el bot en tu servidor": "Sets up the bot in your server",
             "Configura los strikes": "Sets up strikes",
             "Configura las advertencias": "Sets up warnings",
@@ -82,13 +82,13 @@
             "Añade una advertencia al usuario porporcionado": "Adds a warn to a user",
             "Comprueba las advertencias de un usuario, o tuyas.": "Checks your or other user warnings"
         },
-        "parameter_names": {},
-        "parameter_descriptions": {
+        "parameter_name": {},
+        "parameter_description": {
             "El staff que sancionar": "The staff to add the strike to",
             "La cantidad de strikes": "How many strikes should be added",
             "La razón por la que le sancionas":"The reason why you add the strikes"
         },
-        "responses": {
+        "other": {
             "No puedes añadir strikes a este usuario por no ser considerado Staff por parte de Discord": "You can't add strikes to this user because it is not considered as a Staff by Discord's side",
             "No puedes añadir strikes a este staff por tener un rol superior o igual al tuyo": "You can't add strikes to this user because they have a greater or equal role than yours",
             "No se han configurado los strikes": "Strikes have not been set up",
@@ -99,17 +99,17 @@
             "El strike que quitar": "The strike to remove",
             "Este staff no tiene strikes, aún...": "This staff does not have any strikes, yet..."
         },
-        "choices": {
+        "choice_name": {
             "Este staff no tiene strikes": "There are no strikes for this staff"
         }
     },
     "es-ES": {
-        "groups": {
+        "group_name": {
             "setup": "configurar",
             "strike": "strike",
             "warn": "advertencia"
         },
-        "commands": {
+        "command_name": {
             "bot": "bot",
             "strikes": "strikes",
             "warns": "advertencias",
@@ -121,10 +121,10 @@
             "warnings": "advertencias",
             "embed": "embed"
         },
-        "descriptions": {},
-        "parameter_names": {},
-        "parameter_descriptions": {},
-        "responses": {},
-        "choices": {}
+        "command_description": {},
+        "parameter_name": {},
+        "parameter_description": {},
+        "other": {},
+        "choice_name": {}
     }
 }
